@@ -2,7 +2,7 @@
   [[default]]
     background_color = "#1f1f1f"
     cursor_color = "#aaaaaa"
-    font = MesloLGS Nerd Font 11
+    font = JetBrains Mono 13
     foreground_color = "#ffffff"
     show_titlebar = False
     scrollback_infinite = True
